@@ -1,20 +1,9 @@
 [
     {
       "name": "My first tech blog post",
-      "author": "Name of the author of this first post",
-      "description": "Write something about technology."
-    },
-    {
-      "name": "My second tech blog post",
-      "author": "Name of the author of this second post",
-      "description": "Write something else about technology"
-    },
-    {
-        "name": "My third tech blog post",
-        "author": "Name of the author of this third post",
-        "description": "Write another thing about technology"
-      }
+      "body": "Description of this first post....",
+      "post_date": "2023-08-11T23:22:33Z",
+      "user_id": 1
+    }
   ]
   
-
-  //reference from mini-project. adapt to blog post content
