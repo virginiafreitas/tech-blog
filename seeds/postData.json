@@ -1,8 +1,7 @@
 [
     {
-      "name": "My first tech blog post",
+      "title": "My first tech blog post",
       "body": "Description of this first post....",
-      "post_date": "2023-08-11T23:22:33Z",
       "user_id": 1
     }
   ]

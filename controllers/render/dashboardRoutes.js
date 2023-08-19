@@ -1,6 +1,6 @@
 const {Post} = require('../../models/index')
 const router = require('express').Router()
-const withAuth = require('../../util/middleware')
+const withAuth = require('../../utils/auth')
 
 
 // renders the page with posts associated with logged in user

@@ -21,6 +21,7 @@ router.post('/', async (req, res) => {
             res.status(400).json({message: "Invalid body passed"})
         }
     }catch(error){
+        console.log(error)
         res.status(500).json({message: "Error while trying to post a new user"})
     }
 })

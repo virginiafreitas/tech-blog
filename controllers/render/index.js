@@ -1,7 +1,7 @@
-const dashboardRoute = require('./dashboard-route')
-const homeRoute = require('./home-route')
-const loginRoute = require('./login')
-const signupRoute = require('./signup')
+const dashboardRoute = require('./dashboardRoutes.js')
+const homeRoute = require('./homeRoutes.js')
+const loginRoute = require('./login.js')
+const signupRoute = require('./signup.js')
 
 const router = require('express').Router()
 
